@@ -6,7 +6,7 @@
 
 1. **Download the Docker Compose file**
    
-   Go to the https://github.com/sloanelab-org/knowledgebase-portals/blob/main/docker-compose.yml
+   Go to https://github.com/sloanelab-org/knowledgebase-portals/blob/main/docker-compose.yml \
    Click the three dots on the upper right-hand corner and select "Download" from the dropdown menu.
    
 3. **Navigate to the downloaded File directory**
